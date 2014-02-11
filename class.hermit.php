@@ -90,7 +90,7 @@ class hermit{
 	 */	
 	 	
 	public function settings() {
-		register_setting( 'muhermit-settings-group', 'hermit_options' );
+		register_setting( 'hermit-settings-group', 'hermit_options' );
 	}
 	
 	/**
@@ -100,7 +100,7 @@ class hermit{
 		<div class="wrap">
 			<div id="icon-options-general" class="icon32"><br></div><h2>虾米播放器设置</h2><br>
 			<form method="post" action="options.php">
-				<?php settings_fields( 'muhermit-settings-group' ); ?>
+				<?php settings_fields( 'hermit-settings-group' ); ?>
 				<?php $options = get_option('hermit_options'); ?>
 				<table class="form-table">
 					<tbody>
