@@ -1,4 +1,8 @@
-﻿###Hermit 更新历史###
+###演示地址###
+[演示地址](http://mufeng.me/hermit-for-wordpress.html "Hermit 演示地址")
+
+
+###Hermit 更新历史###
 
 2014.2.11  |  1.0.0  (14-2-11)  
 1.  最初1.0.0版本发布
